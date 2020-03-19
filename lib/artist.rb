@@ -1,5 +1,7 @@
+require_relative '../lib/concerns/memorable'
+
 require 'pry'
-# require_relative '../lib/concerns/memorable'
+
 
 class Artist
   
