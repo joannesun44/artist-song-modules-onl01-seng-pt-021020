@@ -1,6 +1,10 @@
 module Paramable 
   
-  module Instance
+  module InstanceMethods
+    
+    def 
+    
+  end 
   
   
 end 
